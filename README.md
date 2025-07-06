@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 A tech enthusiast interested in building systems and applications to serve users.</p>
+<p align="left">💻 A tech enthusiast interested in building systems and applications for enterprises looking to automate and optimize their digital workflows.</p>
 
 ###
 
