@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 A tech enthusiast interested in building systems and applications to serve millions of users</p>
+<p align="left">💻 A tech enthusiast interested in building systems and applications to serve millions of users.</p>
 
 ###
 
@@ -58,14 +58,6 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Jaypiasco">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jaypiasco&count=5" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
