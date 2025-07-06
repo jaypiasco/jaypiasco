@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 A tech enthusiast interested in building systems and applications to serve millions of users.</p>
+<p align="left">💻 A tech enthusiast interested in building systems and applications to serve users.</p>
 
 ###
 
