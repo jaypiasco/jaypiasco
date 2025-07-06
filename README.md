@@ -21,7 +21,7 @@
 <p align="left">
   <!-- Azure -->
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   </a>
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -113,10 +113,9 @@
   </a>
   <!-- Prisma -->
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/prisma/prisma-assets/main/Badge/prisma-badge.svg" alt="prisma" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
   </a>
   <!-- Chart.js -->
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
   </a>
-</p>
