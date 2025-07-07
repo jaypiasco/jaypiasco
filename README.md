@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 A tech enthusiast interested in building systems and applications to serve users at scale.</p>
+<p align="left">💻 A tech enthusiast interested in building systems and smart applications that empower users at scale.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Crafting Scalable Systems & Smart Applications<br>Designing full-stack experiences that blend performance, structure, and creativity.<br><br>🚀 Integrating Technologies Across Platforms<br>Bringing cloud services, APIs, and databases together to launch ideas with seamless precision.<br><br>⚡ Streamlining Workflows & Empowering Smarter Systems<br>Designing tools that optimize expense tracking, automate business insights, and eliminate repetitive tasks for smoother operations.</p>
+<p align="left">🎯 Crafting Scalable Systems & Smart Applications<br>Designing full-stack experiences that blend performance, structure, and vision.<br><br>🚀 Integrating Technologies Across Platforms<br>Bringing cloud services, APIs, and databases together to launch ideas with seamless precision.<br><br>⚡ Streamlining Workflows & Empowering Smarter Systems<br>Designing tools that optimize expense tracking, automate business insights, and eliminate repetitive tasks for smoother operations.</p>
 
 ###
 
