@@ -9,6 +9,7 @@
 ###
 <p align="left">Engineering Scalable Systems and Intelligent Applications <br>I craft full-stack solutions that balance performance, structure, and strategic clarity. My focus is on building robust architectures and user-centered experiences that deliver real impact.<br><br>Integrating Technologies Across Diverse Platforms <br>Driven by a passion for versatility, I explore mobile, web, and desktop development—including Windows applications—to meet a wide range of technical challenges. I integrate cloud services, APIs, and databases to deliver seamless, cross-platform solutions.<br><br>Optimizing Workflows and Building Smarter Systems <br>I develop tools that streamline operations, improve expense tracking, and automate business insights. My goal is to reduce inefficiencies and build intelligent systems that simplify complex tasks.</p>
 -->
+
 ###
 
 <h2 align="left">Languages and Tools:</h2>
