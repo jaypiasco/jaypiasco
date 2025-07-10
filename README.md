@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A tech enthusiast interested in building systems and smart applications that deliver measurable value and empower users organization-wide.</p>
+<p align="left">A tech enthusiast interested in building systems and smart applications to provide value and empower users organization-wide.</p>
 <!--
 ###
 <h2 align="left">My Interests</h2>
