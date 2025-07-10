@@ -122,10 +122,12 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
   <!-- Prisma -->
+  <!--
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
   </a>
   <!-- Chart.js -->
+  <!--
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
   </a>
