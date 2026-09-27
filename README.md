@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm John Paul Elias</h1>
 
 <p align="left">
-  <b>Software & AI Systems Engineer</b> focused on building autonomous generative media pipelines, fault-tolerant backend architectures, and edge IoT systems.
+  <b>Software Engineer specializing in scalable backend systems, data pipelines, and production AI infrastructure.
 </p>
 
 <p align="left">
