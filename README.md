@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jaypiasco (John Paul Elias)</h1>
+<h1 align="left">Hi 👋, I'm John Paul Elias</h1>
 
 <p align="left">
   <b>Software & AI Systems Engineer</b> focused on building autonomous generative media pipelines, fault-tolerant backend architectures, and edge IoT systems.
