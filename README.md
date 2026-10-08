@@ -13,8 +13,8 @@
 
 ## 🚀 Featured Projects
 
-### 🎬 [FableMotion — Autonomous AI Video Generation Platform](https://fablemotion.me)
-*Aug 2026 – Sep 2026* • [Live Demo](https://fablemotion.me)
+### 🎬 [FableMotion — Autonomous AI Video Generation Platform](https://github.com/jaypiasco/fable-motion-showcase)
+*Aug 2026 – Sep 2026* • [Website(Preview)](https://fablemotion.me)
 > An end-to-end, fault-tolerant pipeline converting a single prompt into fully assembled, cross-platform distributed vertical drama videos.
 
 - **Multimodal Synthesis Pipeline:** Orchestrated Gemini 3.5 Flash-Lite, Imagen 3, and Veo 3.1 into a decoupled 5-phase production engine; locked in character identity across shots using visual reference conditioning.
@@ -26,7 +26,7 @@
 
 ---
 
-### ♻️ [EcoPoints — IoT-Integrated Smart Recycling Platform](https://ecopoints.org)
+### ♻️ [EcoPoints — IoT-Integrated Smart Recycling Platform](https://github.com/ecopoints-team/eco-points-rpi)
 *Nov 2025 – Jun 2026* • [Website](https://ecopoints.org)
 > Edge AI recycling kiosk powered by computer vision and hardware actuator controls.
 
